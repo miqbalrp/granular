@@ -20,7 +20,7 @@ Library of butiran.js developed by [Mr. Sparisoma Viridi](https://github.com/dud
     `refs` https://doi.org/10.1088/1757-899X/546/5/052057 (direct experiment)<br>
     `code` https://github.com/miqbalrp/granular/blob/master/bne_single/bne_single.js<br>
     `demo` https://raw.githack.com/miqbalrp/granular/master/bne_single/bne_single.html<br>
-    This simulation is used to generated training and testing data for ANN in order to prediction of BNE Phenomena. The ANN source code and final report will be attached soon.<br>. See the early report here.
+    This simulation is used to generated training and testing data for ANN in order to prediction of BNE Phenomena. The ANN source code and final report will be attached soon. See the early report [here](https://github.com/miqbalrp/granular/blob/master/bne_single/ICCSE_Iqbal.pdf).
  
 
 03. **fdraglam_binary** | Flow drag laminar in binary mixture grain system
