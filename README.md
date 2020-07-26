@@ -1,8 +1,8 @@
 # Granular
-List of projects with [Mr. Sparisoma Viridi](https://github.com/dudung) as supervisor using granular model
+List of projects with [Mr. Sparisoma Viridi](https://github.com/dudung) as supervisor using molecular dynamic simulation on granular systems (grain-like particle). 
 
 ## Distribution
-Library of butiran.js can be downloaded from
+Library of butiran.js developed by [Mr. Sparisoma Viridi](https://github.com/dudung) can be downloaded from
 * [dist/butiran.min.js](https://github.com/dudung/butiran.js/blob/master/dist/butiran.min.js) (17 KB)
 
 ## Application
