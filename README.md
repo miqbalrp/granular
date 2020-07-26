@@ -4,11 +4,11 @@ The projects developed in collaboration with:
 * [Mr. Sparisoma Viridi](https://github.com/dudung) (supervisor)
 * [Aufa Rudiawan](https://github.com/aufarudiawan) (early development for fdraglam simulation)
 
-## Distribution
+## Main Library (butiran.js)
 Library of butiran.js developed by [Mr. Sparisoma Viridi](https://github.com/dudung) can be downloaded from
 * [dist/butiran.min.js](https://github.com/dudung/butiran.js/blob/master/dist/butiran.min.js) (17 KB)
 
-## Application
+## Simulations
 01. **bne_binary** | Vertical vibration on binary mixture granular systems for Brazil Nut Effect observation
 
     `refs` [Final Project for B.Sc](https://www.slideshare.net/IqbalRahmadhan/tugas-akhir-analisis-jaringan-pada-fenomena-ekb-campuran-biner-sistem-butiran-dua-dimensi) (direct experiment)<br>
