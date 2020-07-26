@@ -8,7 +8,7 @@ Library of butiran.js developed by [Mr. Sparisoma Viridi](https://github.com/dud
 ## Application
 01. **bne_binary** | Vertical vibration on binary mixture granular systems for Brazil Nut Effect observation
 
-    `refs` -<br>
+    `refs` [Final Project for B.Sc](https://www.slideshare.net/IqbalRahmadhan/tugas-akhir-analisis-jaringan-pada-fenomena-ekb-campuran-biner-sistem-butiran-dua-dimensi) (direct experiment)<br>
     `code` https://github.com/miqbalrp/granular/blob/master/bne_binary/bne_binary.js<br>
     `demo` https://raw.githack.com/miqbalrp/granular/master/bne_binary/bne_binary.html
 
