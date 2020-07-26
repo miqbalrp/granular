@@ -1,5 +1,8 @@
 # Granular
-List of projects with [Mr. Sparisoma Viridi](https://github.com/dudung) as supervisor using molecular dynamic simulation on granular systems (grain-like particle). 
+List of projects using molecular dynamic simulation on granular systems (grain-like particle). 
+The projects developed in collaboration with:
+* [Mr. Sparisoma Viridi](https://github.com/dudung) (supervisor)
+* [Aufa Rudiawan](https://github.com/aufarudiawan) (early development for fdraglam simulation)
 
 ## Distribution
 Library of butiran.js developed by [Mr. Sparisoma Viridi](https://github.com/dudung) can be downloaded from
