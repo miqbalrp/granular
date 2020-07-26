@@ -29,5 +29,5 @@ Library of butiran.js developed by [Mr. Sparisoma Viridi](https://github.com/dud
     `demo` https://raw.githack.com/miqbalrp/granular/master/fdraglam_binary/fdraglam_binary.html
    
 ## Current Project
-* Particle Size Analyzer simulation using granular model.
+* Particle Size Analyzer simulation using granular model | [Sparisoma Viridi](https://github.com/dudung), [Septian Ulan Dini](https://github.com/septian-d), [Erlina](https://github.com/erlinaliana).
 
